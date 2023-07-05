@@ -1,1 +1,5 @@
-# v14-stat-bot
+# Discord V14 Stat Bot 
+
+```
+Tek Yapmanız Gereken settings.json doldurmak
+```
